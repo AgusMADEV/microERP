@@ -119,7 +119,7 @@
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tuusuario/microERP.git
+git clone https://github.com/agusmadev/microERP.git
 
 # Navegar al directorio
 cd microERP
@@ -127,7 +127,7 @@ cd microERP
 
 ### Opción 2: Descarga Directa
 
-1. Descarga el archivo ZIP desde [Releases](https://github.com/tuusuario/microERP/releases)
+1. Descarga el archivo ZIP desde [Releases](https://github.com/agusmadev/microERP/releases)
 2. Extrae el contenido en tu servidor web (ej: `htdocs/microERP`)
 
 ### Configuración del Servidor Web
@@ -207,8 +207,8 @@ http://localhost/microERP/
 ```
 
 Credenciales de acceso (por defecto):
-- **Usuario**: `tu_usuario`
-- **Contraseña**: `tu_contraseña`
+- **Usuario**: `admin`
+- **Contraseña**: `admin123`
 
 ---
 
@@ -496,16 +496,16 @@ SOFTWARE.
   <h3>agusmaDEV</h3>
   <p>Desarrollador Full Stack | Creador de microERP</p>
   
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuusuario)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tuusuario)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agusmadev)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/agusmadev)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/agusmadev)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agusmadev@email.com)
 </div>
 
 ---
 
 <div align="center">
   <p>⭐ Si te ha gustado este proyecto, ¡dale una estrella en GitHub!</p>
-  <p>💬 ¿Preguntas o sugerencias? <a href="https://github.com/tuusuario/microERP/issues">Abre un issue</a></p>
+  <p>💬 ¿Preguntas o sugerencias? <a href="https://github.com/agusmadev/microERP/issues">Abre un issue</a></p>
   <p>Made with ❤️ by agusmaDEV</p>
 </div>

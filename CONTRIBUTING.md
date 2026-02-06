@@ -37,10 +37,10 @@ Este proyecto sigue un código de conducta para garantizar un ambiente acogedor 
 Hay muchas formas de contribuir a microERP:
 
 ### 1. Reportar Bugs
-¿Encontraste un error? [Abre un issue](https://github.com/tuusuario/microERP/issues/new?template=bug_report.md)
+¿Encontraste un error? [Abre un issue](https://github.com/agusmadev/microERP/issues/new?template=bug_report.md)
 
 ### 2. Sugerir Mejoras
-¿Tienes una idea? [Compártela aquí](https://github.com/tuusuario/microERP/issues/new?template=feature_request.md)
+¿Tienes una idea? [Compártela aquí](https://github.com/agusmadev/microERP/issues/new?template=feature_request.md)
 
 ### 3. Mejorar la Documentación
 - Corregir errores tipográficos
@@ -73,7 +73,7 @@ Hay muchas formas de contribuir a microERP:
 
 2. **Clonar tu fork:**
    ```bash
-   git clone https://github.com/TU_USUARIO/microERP.git
+   git clone https://github.com/agusmadev/microERP.git
    cd microERP
    ```
 
@@ -289,7 +289,7 @@ Cualquier otro contexto, capturas, mockups, etc.
 
 - 💬 [Discussions](https://github.com/agusmaDEV/microERP/discussions) - Para preguntas y conversaciones
 - 🐛 [Issues](https://github.com/agusmaDEV/microERP/issues) - Para bugs y features
-- 📧 Email: tu@email.com
+- 📧 Email: agusmadev@email.com
 
 ---
 
