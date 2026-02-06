@@ -71,9 +71,10 @@
 ### Pantalla de Login
 > _Interfaz de autenticación con gradientes modernos_
 
+
 ![Login Screen](docs/images/login.png)
 
-### Dashboard Principal
+### Dashboard Principal | Gráficos y Reportes
 > _Vista de tablas con navegación lateral y acciones rápidas_
 
 ![Dashboard](docs/images/dashboard.png)
